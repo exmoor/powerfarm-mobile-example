@@ -1,0 +1,12 @@
+#!/bin/bash
+
+doneStatus="done"
+content=$(cat "demo")
+
+echo $doneStatus
+echo $content
+
+if [ "$str" != "$content" ];then
+    echo "hej"
+    false
+fi
