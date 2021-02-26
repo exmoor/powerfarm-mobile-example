@@ -5,7 +5,7 @@ import org.junit.Assert;
 import org.junit.Test;
 import org.openqa.selenium.WebElement;
 
-// new comment
+// add new comment 
 
 public class SampleAppTest2 extends DriverConfig {
 
